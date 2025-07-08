@@ -38,3 +38,5 @@ To design and implement a system that:
 | Language        | Python 3.x                |
 
 ## Output
+
+<img width="563" height="792" alt="Image" src="https://github.com/user-attachments/assets/7e92909d-05e0-496f-bb67-34ca587b3c84" />
